@@ -636,80 +636,80 @@ Active status
 
 ### 18.1. Màn hình đăng nhập
 
-```markdown
-![Login Screen](screenshots/01_login.jpg)
+```
+screenshots/01_login.jpg
 ```
 
 ### 18.2. Màn hình trang chủ theo vai trò
 
-```markdown
-![Home Admin](screenshots/02_home_admin.jpg)
+```
+screenshots/02_home_admin.jpg
 ```
 
 ### 18.3. Dashboard thống kê
 
-```markdown
-![Dashboard](screenshots/03_dashboard.jpg)
+```
+screenshots/03_dashboard.jpg
 ```
 
 ### 18.4. Danh sách thiết bị
 
-```markdown
-![Equipment List](screenshots/04_equipment_list.jpg)
+```
+screenshots/04_equipment_list.jpg
 ```
 
 ### 18.5. Chi tiết thiết bị
 
-```markdown
-![Equipment Detail](screenshots/05_equipment_detail.jpg)
+```
+screenshots/05_equipment_detail.jpg
 ```
 
 ### 18.6. Mã QR thiết bị
 
-```markdown
-![Equipment QR](screenshots/06_equipment_qr.jpg)
+```
+screenshots/06_equipment_qr.jpg
 ```
 
 ### 18.7. Quét QR thiết bị
 
-```markdown
-![QR Scan](screenshots/07_qr_scan.jpg)
+```
+screenshots/07_qr_scan.jpg
 ```
 
 ### 18.8. Tạo phiếu bảo trì
 
-```markdown
-![Create Maintenance Ticket](screenshots/08_create_maintenance.jpg)
+```
+screenshots/08_create_maintenance.jpg
 ```
 
 ### 18.9. Danh sách phiếu bảo trì
 
-```markdown
-![Maintenance List](screenshots/09_maintenance_list.jpg)
+```
+screenshots/09_maintenance_list.jpg
 ```
 
 ### 18.10. Chi tiết phiếu bảo trì
 
-```markdown
-![Maintenance Detail](screenshots/10_maintenance_detail.jpg)
+```
+screenshots/10_maintenance_detail.jpg
 ```
 
 ### 18.11. Ghi chú và lịch sử xử lý
 
-```markdown
-![Maintenance Notes](screenshots/11_maintenance_notes.jpg)
+```
+screenshots/11_maintenance_notes.jpg
 ```
 
 ### 18.12. Quản lý tài khoản
 
-```markdown
-![User Management](screenshots/12_user_management.jpg)
+```
+screenshots/12_user_management.jpg
 ```
 
 ### 18.13. Phân quyền theo vai trò
 
-```markdown
-![Role Permission](screenshots/13_role_permission.jpg)
+```
+screenshots/13_role_permission.jpg
 ```
 ---
 
