@@ -315,8 +315,10 @@ Vì 127.0.0.1 trên điện thoại là chính điện thoại, không phải m�
 |---|---|---|
 | admin | 123456 | admin |
 | supervisor | 123456 | supervisor |
-| thang | 123456 | technician |
+| Trang | 123456 | technician |
 | tech01 | 123456 | technician |
+| user01 | 123456 | technician |
+| user02 | 123456 | technician |
 
 Có thể tạo thêm tài khoản trong màn hình quản lý tài khoản.
 
